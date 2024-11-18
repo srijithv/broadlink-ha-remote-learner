@@ -20,7 +20,7 @@ This project provides Python scripts to learn and test IR codes for air conditio
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/broadlink-ac-controller.git
+   git clone https://github.com/srijithv/broadlink-ha-remote-learner
    cd broadlink-ac-controller
 
 2. Set up a Python virtual environment (recommended):
